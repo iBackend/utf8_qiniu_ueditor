@@ -42,3 +42,4 @@
 
 ![附件上传](https://raw.github.com/widuu/utf8_qiniu_ueditor/master/images/fileupload.png)
 
+本程序由微度网络-网络技术中心提供技术支持和更新和维护，如果您有什么疑问可以去[http://www.widuu.com](http://www.widuu.com)来提交您的问题
