@@ -1,6 +1,6 @@
 <?php
 /*
- *七牛获取token的方法，版权归七牛所有
+ *@description   文件上传方法
  *@author widuu  http://www.widuu.com
  *@mktime 08/01/2014
  */

@@ -1,4 +1,10 @@
 <?php
+/*
+ *@description   图片在线管理
+ *@author widuu  http://www.widuu.com
+ *@mktime 08/01/2014
+ *
+ */
 
 	header("Content-Type: text/html; charset=utf-8");
     error_reporting( E_ERROR | E_WARNING );

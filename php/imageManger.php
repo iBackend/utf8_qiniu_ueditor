@@ -1,5 +1,9 @@
 <?php
-
+/*
+ *@description   图片管理基类
+ *@author widuu  http://www.widuu.com
+ *@mktime 08/01/2014
+ */
 class Qiniu_Mac {
 
 	public $AccessKey;
