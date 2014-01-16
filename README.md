@@ -14,9 +14,11 @@
  
 ####功能截图
 
+
 #####多图片上传
 
-![上传图片](http://widuu.u.qiniudn.com/images/imagemore.png)
+
+![上传图片](http://yun.widuu.com/images/imagemore.png)
 
 #####同名文件覆盖
 
